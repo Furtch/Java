@@ -1,0 +1,1 @@
+print("sala ni ni kayzhar")
